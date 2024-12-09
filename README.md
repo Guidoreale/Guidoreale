@@ -19,9 +19,61 @@
 - Java
 <br>
 
-## some of my projects
+## Some of my projects
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">F1 data analysis project </h3>
+<div align="center">
+<a href="https://github.com/leodreizzen/formula1-fisica" target="_blank"><img src="/public/fisica.jpeg" width="400" alt="F1 project"></a>
+<p>
+<a href="https://github.com/leodreizzen/formula1-fisica" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>developed a data analysis and visualization project in a team of 10 people using Python and React</p>
+</div>
+                                                                                      
+</td>
 
+<td width="50%">
 <br>
+<h3 align="center">Web E-Commerce</h3>
+<div align="center">                                       
+<a href="https://github.com/tobiasgatti02/proyecto-nextjs" target="_blank"><img src="/public/bodine.jpg" width="400" alt="Bodine E-Commerce"></a>
+<br>
+<p>
+<a href="https://github.com/tobiasgatti02/proyecto-nextjs" target="_blank">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+</p>We developed in a team of two people an e-commerce web application using NextJS technologies (taking advantage of the optimizations that they offer) and combining them with React to
+optimizations they offer) combining them with React to componentize the application and achieve a functional and organized environment. 
+</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Java Tower Defense Game</h3>
+<div align="center">
+<a href="https://github.com/Guidoreale/worcs-game" target="_blank"><img src="/public/worcsGame.png" width="400" alt="Tower defense game"></a>
+<p>
+<a href="https://github.com/Guidoreale/worcs-game" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>We developed a tower defense style game using Java and respecting the solid principles and te correct use of several design patterns</p>
+</div>
+                                                                                      
+</td>        
+</table>                                                                                 
+</div>
+<br>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
