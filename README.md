@@ -1,6 +1,9 @@
 # Hi, I'm <a href="https://www.linkedin.com/in/guidoreale/">Guido<a/>! 👋 </br> <b> A Software Developer based in Argentina🧑🏻‍💻</b>
 <br/>
 
+<img src="/public/background.jpeg">
+
+
 ## About Me
 
 - Studying Software Engineering on Bahia Blanca, Argentina
